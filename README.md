@@ -4,4 +4,4 @@
 
 ## 자료구조
 
-- [Intro](#./DataStructure/Intro.md)
+- [Intro](https://github.com/kimmeh4/Basic1-CS/blob/main/DataStructure/Intro.md)
