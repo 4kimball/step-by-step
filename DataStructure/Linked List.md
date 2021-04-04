@@ -91,3 +91,37 @@ void InsertNode(NODE *ptr) {
 }
 ```
 
+
+
+- B 삭제하기
+
+먼저 반복문을 통해 삭제하고자 하는 데이터인 B가 포함된 Node를 찾는다. 그리고 삭제할 Node인 `deleteptr`에 넣는다. 여기서 `indexptr`의 Next가 삭제할 노드가 되어야한다.
+
+왜냐하면 삭제할 노드 이전의 노드를 삭제할 노드의 다음 노드와 연결을 한 뒤에 삭제할 노드를 삭제해야 연결이 끊어지지 않기 때문이다.
+
+```c
+void DeleteNode(NODE *ptr) {
+	NODE *indexptr;
+	NODE *deleteptr;
+
+	for (indexptr = head; indexptr != end; indexptr = indexptr->Next) {
+		if (indexptr->Next->Data == ptr->Data) {
+			deleteptr = indexptr->Next;
+			break;
+		}
+			
+	}
+	indexptr->Next = indexptr->Next->Next;
+	free(deleteptr);
+}
+```
+
+
+
+---
+
+### 정리
+
+- Linked List는 중간에 데이터를 삽입, 삭제할 때 `Big-O(n)`의 시간이 걸린다.
+- Linke List는 동적으로 크기를 조절할 수 있다.
+- 삽입과 삭제를 구현할 때 Node가 끊어지지 않도록 유의한다.
