@@ -13,3 +13,10 @@
 
 
 
+## Javascript
+
+### 기본
+
+- [01-Data Type](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/01_Data%20Type.md)
+- [02-Objecct 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/02_Object%2001.md)
+- [03-Function 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/03_Function%2001.md)
