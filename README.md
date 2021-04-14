@@ -33,3 +33,7 @@
 - [04-Array 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/04_Array%2001.md)
 - [05-String](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/05_String.md)
 
+### DOM
+
+- [01-DOM](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/DOM01_DOM.md)
+
