@@ -2,6 +2,14 @@
 
 
 
+## 알고리즘
+
+- [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
+
+- [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
+
+
+
 ## 자료구조
 
 - [Intro](https://github.com/kimmeh4/Basic1-CS/blob/main/DataStructure/Intro.md)
@@ -20,3 +28,6 @@
 - [01-Data Type](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/01_Data%20Type.md)
 - [02-Objecct 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/02_Object%2001.md)
 - [03-Function 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/03_Function%2001.md)
+- [04-Array 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/04_Array%2001.md)
+- [05-String](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/05_String.md)
+
