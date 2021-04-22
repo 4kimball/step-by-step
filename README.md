@@ -7,8 +7,13 @@
 ## 알고리즘
 
 - [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
-
 - [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
+
+
+
+#### 최소 신장 트리
+
+- [Kruskal](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Kruskal.md)
 
 
 
