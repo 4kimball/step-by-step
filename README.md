@@ -14,6 +14,13 @@
 #### 최소 신장 트리
 
 - [Kruskal](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Kruskal.md)
+- [Prim](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Prim.md)
+
+
+
+#### 그래프
+
+- [Dijkstra](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Dijkstra.md)
 
 
 
