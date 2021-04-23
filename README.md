@@ -29,23 +29,40 @@
 - [Intro](https://github.com/kimmeh4/Basic1-CS/blob/main/DataStructure/Intro.md)
 - [Array](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Array.md)
 - [Linked List](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Linked%20List.md)
-
 - [Stack & Queue](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Stack%20%26%20Queue.md)
 - [Tree](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Tree.md)
+- [Graph](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Graph.md)
 
 
 
 ## Javascript
 
-### 기본
+#### 기본
 
-- [01-Data Type](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/01_Data%20Type.md)
-- [02-Objecct 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/02_Object%2001.md)
-- [03-Function 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/03_Function%2001.md)
-- [04-Array 01](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/04_Array%2001.md)
-- [05-String](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/05_String.md)
+- [Data Type](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/01_Data%20Type.md)
+- [String](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/05_String.md)
 
-### DOM
 
-- [01-DOM](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/DOM01_DOM.md)
+
+#### 배열
+
+- [배열 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/04_Array%2001.md)
+
+
+
+#### 함수
+
+- [함수 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/03_Function%2001.md)
+
+
+
+#### 객체
+
+- [객체 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/02_Object%2001.md)
+
+
+
+#### DOM
+
+- [DOM](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/DOM01_DOM.md)
 
