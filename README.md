@@ -47,6 +47,7 @@
 #### 배열
 
 - [배열 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/04_Array%2001.md)
+- [배열 메서드](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/08_Array%2002.md)
 
 
 
@@ -54,11 +55,14 @@
 
 - [함수 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/03_Function%2001.md)
 
+- [객체로서 함수](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/07_Function%2002.md)
+
 
 
 #### 객체
 
 - [객체 기본](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/02_Object%2001.md)
+- [프로토타입](https://github.com/kimmeh4/step-by-step/blob/main/Javascript/06_Prototype.md)
 
 
 
