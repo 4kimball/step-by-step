@@ -1,13 +1,20 @@
 # Step-by-Step
 
-> 
 
 
 
-## 알고리즘
+
+## :bulb: 알고리즘
 
 - [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
 - [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
+
+
+
+#### 동적계획법
+
+- [기본](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Dynamic%20Programming.md)
+- [LIS](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/DP-LIS.md)
 
 
 
@@ -24,7 +31,7 @@
 
 
 
-## 자료구조
+## :bulb: 자료구조
 
 - [Intro](https://github.com/kimmeh4/Basic1-CS/blob/main/DataStructure/Intro.md)
 - [Array](https://github.com/kimmeh4/step-by-step/blob/main/DataStructure/Array.md)
@@ -35,7 +42,7 @@
 
 
 
-## Javascript
+## :bulb: Javascript
 
 #### 기본
 
