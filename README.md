@@ -9,7 +9,7 @@
 - [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
 - [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
 
-
+- Back Tracking
 
 #### 동적계획법
 
@@ -28,6 +28,8 @@
 #### 그래프
 
 - [Dijkstra](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Dijkstra.md)
+- BFS
+- DFS
 
 
 
