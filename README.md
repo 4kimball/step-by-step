@@ -7,9 +7,13 @@
 ## :bulb: 알고리즘
 
 - [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
-- [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
 
-- Back Tracking
+
+
+### 이진탐색
+
+- [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
+- [LIS](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%20-%20LIS.md)
 
 #### 동적계획법
 
