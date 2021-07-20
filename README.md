@@ -8,12 +8,16 @@
 
 - [Greedy](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Greedy.md)
 
+- [슬라이딩 윈도우](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0.md)
 
 
-### 이진탐색
+
+#### 이진 탐색
 
 - [Binary Search](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/Binary%20Search.md)
 - [LIS](https://github.com/kimmeh4/step-by-step/blob/main/Algorithm/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%20-%20LIS.md)
+
+
 
 #### 동적계획법
 
